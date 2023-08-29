@@ -1,0 +1,13 @@
+Practice Activity Number 1 - Writing mathematical queries
+PRACTICE ACTIVITY
+
+Open up SQL Server Management Studio, if it's not already open, and start a new Query.
+
+Write statements which calculate the following:
+
+1. What is 4 plus 9? Please call the column MyAnswer.
+2. What is 15 minus 26? Please call the column Balance.
+3. What is 24 times 4 plus 3? Please call the column MyResponse.
+4. What is 48 divided by 4? Please call the column Result.
+
+Then run these statements - and check your answers and make sure they are right.

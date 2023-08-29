@@ -1,0 +1,3 @@
+Resources
+
+1. https://docs.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql?view=sql-server-ver15;

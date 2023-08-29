@@ -1,0 +1,3 @@
+CREATE DATABASE databaseName;
+
+CREATE DATABASE TSQL_70_461; --example
