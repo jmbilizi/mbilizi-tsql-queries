@@ -1,4 +1,6 @@
-use TSQL_70_461;
+-- To specify the database you want to excute the queries in
+use TSQL_70_461
+Go;
 
 -- option 1
 CREATE TABLE tableName  
