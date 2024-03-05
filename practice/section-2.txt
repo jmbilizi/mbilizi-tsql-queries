@@ -1,5 +1,6 @@
-Practice Activity Number 1 - Writing mathematical queries
-PRACTICE ACTIVITY
+Practice Section 2
+
+- Writing mathematical queries
 
 Open up SQL Server Management Studio, if it's not already open, and start a new Query.
 
